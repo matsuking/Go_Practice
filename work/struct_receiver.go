@@ -1,4 +1,4 @@
-package main
+package work
 
 import (
 	"fmt"
@@ -11,7 +11,7 @@ type Task struct {
 	Estimate int
 }
 
-func main() {
+func struct_receiver() {
 	task1 := Task{
 		Title:    "Learn Golang",
 		Estimate: 3,

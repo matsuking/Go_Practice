@@ -1,8 +1,8 @@
-package main
+package work
 
 import "fmt"
 
-func main() {
+func slice_map_for() {
 	var a1 [3]int
 	// =を使う場合は、{}で必ず代入する
 	var a2 = [3]int{10, 20, 30}
