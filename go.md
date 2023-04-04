@@ -9,3 +9,15 @@
 ![img_3.png](img_3.png)
 ![img_4.png](img_4.png)
 ![img_5.png](img_5.png)
+
+- チャネルを使用することで複数のgoroutine(go funcで定義)間でデータを送受信できるようになる
+![img_6.png](img_6.png)
+
+- コンテキストの一番の用途は、メインルーチンからサブゴルーチンを一斉にキャンセル
+![img_7.png](img_7.png)
+
+![img_8.png](img_8.png)
+
+![img_9.png](img_9.png)
+
+![img_10.png](img_10.png)
